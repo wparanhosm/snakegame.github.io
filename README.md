@@ -8,7 +8,7 @@ Código desenvolvido com o intuito de aprendizado na linguagem e lógica de prog
 
 ## Como jogar?
 
-O jogo está disponível [nesse link](https://tangsan06.github.io/snakegame.github.io/).
+O jogo está disponível [nesse link](https://wparanhosm.github.io/snakegame.github.io/).
 Ele funciona exatamente da forma clássica do jogo, usando os direcionais para se mover. 
 
 ## Regras do jogo
